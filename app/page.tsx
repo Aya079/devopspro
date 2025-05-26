@@ -13,7 +13,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-white via-purple-200 to-pink-200 bg-clip-text text-transparent mb-6">
-            DevOps Pipeline AYA boudad
+            DevOps Pipeline AYA boudad jenkins
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold text-purple-200 mb-6">
             Continuous Integration & Deployment
